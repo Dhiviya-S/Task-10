@@ -91,4 +91,4 @@ time.sleep(5)
 driver.quit()
 
 #To generate HTML Report of Pytest cases:pytest -v -s test_url.py --html=report.html
-#report.html(to be opened in Browser) and Webpage_task_11.txt is attached
+#report.html(to be opened in Browser) and Webpage_task_11.txt are attached
